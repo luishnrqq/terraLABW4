@@ -1,0 +1,13 @@
+
+.ol-map {
+    height: 100vh;
+    display: flex;
+    width: 100%;
+  }
+
+  .trajectForm_container{
+    height: 200px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+  }
